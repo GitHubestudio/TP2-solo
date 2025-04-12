@@ -29,9 +29,21 @@ namespace TP2_solo
                 ddlCiudad.Items.Add(sanMartin);
                 ddlCiudad.Items.Add(boedo);
 
-                cblTemas.Items.Add("Ciencias");
-                cblTemas.Items.Add("Literatura");
-                cblTemas.Items.Add("Historia");
+                ListItem Ciencias = new ListItem();
+                Ciencias.Text = "Ciencias";
+                Ciencias.Value = "Ciencias";
+
+                ListItem Literatura = new ListItem();
+                Literatura.Text = "Literatura";
+                Literatura.Value = "Literatura";
+
+                ListItem Historia = new ListItem();
+                Historia.Text = "Historia";
+                Historia.Value = "Historia";
+
+                cblTemas.Items.Add(Ciencias);
+                cblTemas.Items.Add(Literatura);
+                cblTemas.Items.Add(Historia);
             }
         }
 

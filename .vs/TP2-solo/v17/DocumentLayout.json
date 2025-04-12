@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 2\\TP2-solo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFADBC79-0B2E-4A27-B384-9EC861A84354}|TP2-solo\\TP2-solo.csproj|c:\\users\\segov\\enzo-pc\\escritorio\\3\u00B0 cuatrimestre\\programacion-3\\unidad 2\\tp2-solo\\tp2-solo\\ejercicio2-a-revisado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFADBC79-0B2E-4A27-B384-9EC861A84354}|TP2-solo\\TP2-solo.csproj|solutionrelative:tp2-solo\\ejercicio2-a-revisado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFADBC79-0B2E-4A27-B384-9EC861A84354}|TP2-solo\\TP2-solo.csproj|C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 2\\TP2-solo\\tp2-solo\\ejercicio2-a-revisado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DFADBC79-0B2E-4A27-B384-9EC861A84354}|TP2-solo\\TP2-solo.csproj|solutionrelative:tp2-solo\\ejercicio2-a-revisado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio2-A-revisado.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 2\\TP2-solo\\TP2-solo\\Ejercicio2-A-revisado.aspx.cs",
+              "RelativeDocumentMoniker": "TP2-solo\\Ejercicio2-A-revisado.aspx.cs",
+              "ToolTip": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 2\\TP2-solo\\TP2-solo\\Ejercicio2-A-revisado.aspx.cs",
+              "RelativeToolTip": "TP2-solo\\Ejercicio2-A-revisado.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:51:28.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio2-A-revisado.aspx",
+              "DocumentMoniker": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 2\\TP2-solo\\TP2-solo\\Ejercicio2-A-revisado.aspx",
+              "RelativeDocumentMoniker": "TP2-solo\\Ejercicio2-A-revisado.aspx",
+              "ToolTip": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 2\\TP2-solo\\TP2-solo\\Ejercicio2-A-revisado.aspx",
+              "RelativeToolTip": "TP2-solo\\Ejercicio2-A-revisado.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-11T16:30:24.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
